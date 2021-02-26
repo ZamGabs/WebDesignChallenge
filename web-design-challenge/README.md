@@ -1,3 +1,3 @@
 ## Web Design - Latitude: Latitude Analysis Dashboard with Attitude
 
-link - http://127.0.0.1:5500/index.html
+please click on the 'web-design-challenge' folder to see work. thank you. 
